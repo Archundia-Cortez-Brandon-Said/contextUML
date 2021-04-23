@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T23:01:21.514Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="yIdJsJ64sCvQpZrNzQ3O" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T23:34:03.290Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="avCYF_JvnxPnu7-Jv-p7" version="14.6.6" type="github">
   <diagram id="9Tp3Bp6zxK_fWa5_v22C" name="Page-1">
     <mxGraphModel dx="1062" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="dXvM6bHmMKacEcuEs56N-8" value="Selección del tipo de mapa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=27;fontColor=#00CC66;" vertex="1" parent="1">
           <mxGeometry x="568.4" y="462.74" width="180.05" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dXvM6bHmMKacEcuEs56N-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#00CC66;" edge="1" parent="1" source="oDANMGQWzppKtMMeOv0n-14" target="Lmlt1XYuxaMjz-CYnHoJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="380" as="sourcePoint" />
+            <mxPoint x="800" y="491" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
