@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T00:34:31.684Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="RmBR0E6vW7v7yIAUJF7z" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T00:50:04.368Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="umgVASJdiNPzV-I1C40h" version="14.6.6" type="github">
   <diagram id="9Tp3Bp6zxK_fWa5_v22C" name="Page-1">
     <mxGraphModel dx="1062" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="dXvM6bHmMKacEcuEs56N-1" value="Mostrar waypoints y waypoints reales" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#10739E;" parent="1" vertex="1">
           <mxGeometry x="469" y="522" width="251" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oDANMGQWzppKtMMeOv0n-13" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="Lmlt1XYuxaMjz-CYnHoJ-2" target="dXvM6bHmMKacEcuEs56N-7" edge="1">
+        <mxCell id="oDANMGQWzppKtMMeOv0n-13" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;startArrow=classic;startFill=1;" parent="1" source="Lmlt1XYuxaMjz-CYnHoJ-2" target="dXvM6bHmMKacEcuEs56N-7" edge="1">
           <mxGeometry x="347" y="325" width="50" height="50" as="geometry">
             <mxPoint x="750" y="700" as="sourcePoint" />
             <mxPoint x="840" y="820" as="targetPoint" />
@@ -79,7 +79,7 @@
         <mxCell id="JSC7t27dYpk22ybj4QoQ-2" value="Mostrar rutas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#10739E;" vertex="1" parent="1">
           <mxGeometry x="540" y="497.74" width="132.12" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JSC7t27dYpk22ybj4QoQ-4" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lmlt1XYuxaMjz-CYnHoJ-2" target="oDANMGQWzppKtMMeOv0n-14">
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-4" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="Lmlt1XYuxaMjz-CYnHoJ-2" target="oDANMGQWzppKtMMeOv0n-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="600" as="sourcePoint" />
             <mxPoint x="550" y="550" as="targetPoint" />
@@ -87,6 +87,30 @@
         </mxCell>
         <mxCell id="JSC7t27dYpk22ybj4QoQ-5" value="Mostrar aeródromos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26;fontColor=#10739E;" vertex="1" parent="1">
           <mxGeometry x="509" y="543" width="132.12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-6" value="Alta de ruta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#00CC66;" vertex="1" parent="1">
+          <mxGeometry x="577" y="437" width="180.05" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC66;" edge="1" parent="1" source="oDANMGQWzppKtMMeOv0n-14" target="Lmlt1XYuxaMjz-CYnHoJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748.45" y="380" as="sourcePoint" />
+            <mxPoint x="798.45" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-8" value="Establecer misión / nes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#00CC66;" vertex="1" parent="1">
+          <mxGeometry x="595" y="417" width="180.05" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-10" value="Comunicación vía chat táctico" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26;fillColor=none;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="891" y="699" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-11" value="" style="endArrow=classic;html=1;fontColor=#FFB570;strokeColor=#00CC66;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDANMGQWzppKtMMeOv0n-14" target="Lmlt1XYuxaMjz-CYnHoJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="380" as="sourcePoint" />
+            <mxPoint x="830" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-12" value="Establecer operaciones" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#00CC66;" vertex="1" parent="1">
+          <mxGeometry x="613" y="395" width="180.05" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
