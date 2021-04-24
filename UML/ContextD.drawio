@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T23:34:03.290Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="avCYF_JvnxPnu7-Jv-p7" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T00:34:31.684Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="RmBR0E6vW7v7yIAUJF7z" version="14.6.6" type="github">
   <diagram id="9Tp3Bp6zxK_fWa5_v22C" name="Page-1">
     <mxGraphModel dx="1062" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,14 +34,14 @@
             <mxPoint x="980" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXvM6bHmMKacEcuEs56N-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#00CC66;" edge="1" parent="1" source="oDANMGQWzppKtMMeOv0n-14" target="Lmlt1XYuxaMjz-CYnHoJ-2">
+        <mxCell id="dXvM6bHmMKacEcuEs56N-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#00CC66;" parent="1" source="oDANMGQWzppKtMMeOv0n-14" target="Lmlt1XYuxaMjz-CYnHoJ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="430" as="sourcePoint" />
             <mxPoint x="590" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXvM6bHmMKacEcuEs56N-1" value="Posición geográfica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#10739E;" vertex="1" parent="1">
-          <mxGeometry x="553" y="479" width="150" height="20" as="geometry" />
+        <mxCell id="dXvM6bHmMKacEcuEs56N-1" value="Mostrar waypoints y waypoints reales" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#10739E;" parent="1" vertex="1">
+          <mxGeometry x="469" y="522" width="251" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oDANMGQWzppKtMMeOv0n-13" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" source="Lmlt1XYuxaMjz-CYnHoJ-2" target="dXvM6bHmMKacEcuEs56N-7" edge="1">
           <mxGeometry x="347" y="325" width="50" height="50" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oDANMGQWzppKtMMeOv0n-16" value="Órdenes&amp;nbsp;de vuelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#10739E;" parent="1" vertex="1">
-          <mxGeometry x="530" y="499" width="150" height="20" as="geometry" />
+          <mxGeometry x="560" y="481.74" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oDANMGQWzppKtMMeOv0n-12" value="" style="endArrow=classic;html=1;fontSize=14;startArrow=none;startFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="dXvM6bHmMKacEcuEs56N-7" target="Lmlt1XYuxaMjz-CYnHoJ-2" edge="1">
           <mxGeometry x="317" y="525" width="50" height="50" as="geometry">
@@ -58,17 +58,35 @@
             <mxPoint x="1080" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dXvM6bHmMKacEcuEs56N-7" value="&lt;i&gt;&lt;span style=&quot;font-size: 13.0pt ; line-height: 107% ; font-family: &amp;#34;arial nova&amp;#34; , sans-serif&quot;&gt;Subsistema de Estación&lt;br&gt;Terrena (ETSA)&lt;/span&gt;&amp;nbsp;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="dXvM6bHmMKacEcuEs56N-7" value="&lt;i&gt;&lt;span style=&quot;font-size: 13.0pt ; line-height: 107% ; font-family: &amp;#34;arial nova&amp;#34; , sans-serif&quot;&gt;Subsistema de Estación&lt;br&gt;Terrena (ETSA)&lt;/span&gt;&amp;nbsp;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1120" y="720" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dXvM6bHmMKacEcuEs56N-8" value="Selección del tipo de mapa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=27;fontColor=#00CC66;" vertex="1" parent="1">
+        <mxCell id="dXvM6bHmMKacEcuEs56N-8" value="Selección del tipo de mapa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=27;fontColor=#00CC66;" parent="1" vertex="1">
           <mxGeometry x="568.4" y="462.74" width="180.05" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dXvM6bHmMKacEcuEs56N-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#00CC66;" edge="1" parent="1" source="oDANMGQWzppKtMMeOv0n-14" target="Lmlt1XYuxaMjz-CYnHoJ-2">
+        <mxCell id="dXvM6bHmMKacEcuEs56N-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#00CC66;" parent="1" source="oDANMGQWzppKtMMeOv0n-14" target="Lmlt1XYuxaMjz-CYnHoJ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="380" as="sourcePoint" />
             <mxPoint x="800" y="491" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-1" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="Lmlt1XYuxaMjz-CYnHoJ-2" target="oDANMGQWzppKtMMeOv0n-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="630" as="sourcePoint" />
+            <mxPoint x="810" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-2" value="Mostrar rutas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26.5;fontColor=#10739E;" vertex="1" parent="1">
+          <mxGeometry x="540" y="497.74" width="132.12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-4" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lmlt1XYuxaMjz-CYnHoJ-2" target="oDANMGQWzppKtMMeOv0n-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="600" as="sourcePoint" />
+            <mxPoint x="550" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JSC7t27dYpk22ybj4QoQ-5" value="Mostrar aeródromos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=26;fontColor=#10739E;" vertex="1" parent="1">
+          <mxGeometry x="509" y="543" width="132.12" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
